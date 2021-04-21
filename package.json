@@ -1,0 +1,26 @@
+{
+  "name": "alura-nodejs-api-rest",
+  "version": "1.0.0",
+  "description": "Curso Alura de Rest com NodeJs: API Rest com Expresss e MySQL",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosgsilva/alura-nodejs-api-rest.git"
+  },
+  "author": "Carlos Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosgsilva/alura-nodejs-api-rest/issues"
+  },
+  "homepage": "https://github.com/carlosgsilva/alura-nodejs-api-rest#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
